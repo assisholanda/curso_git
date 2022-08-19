@@ -74,7 +74,7 @@ const App: () => Node = () => {
             Assis Holanda - Dev Junior JS - React / R Native
           </Section>
           <Section title="See Your Changes">
-            <ReloadInstructions />
+            <ReloadInstructions /> 
           </Section>
           <Section title="Debug">
             <DebugInstructions />
