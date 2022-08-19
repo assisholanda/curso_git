@@ -71,7 +71,7 @@ const App: () => Node = () => {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <Section title="Step One">
-            Assis Holanda - Dev
+            Assis Holanda - Dev Junior JS - React / R Native
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
