@@ -73,6 +73,9 @@ const App: () => Node = () => {
           <Section title="Step One">
             Assis Holanda - Dev Junior JS - React / R Native
           </Section>
+          <Section title="Step One">
+            Criação da página Home
+          </Section>
           <Section title="See Your Changes">
             <ReloadInstructions /> 
           </Section>
