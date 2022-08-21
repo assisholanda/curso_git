@@ -1,1 +1,2 @@
 Arquivo apenas de teste pra commit.
+Arquivo incluindo esta linha pra testar a rotina de merge agora
